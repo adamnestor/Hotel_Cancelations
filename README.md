@@ -9,7 +9,7 @@
 ### Tools and Resources Used  
   **Dataset** https://www.kaggle.com/jessemostipak/hotel-booking-demand   
   **Analytics Tool** Python, matplotlib, pandas, numpy  
-  **Analytic Methodologies** Descriptive and Inferential Statistics 
+  **Analytic Methodologies** Descriptive and Inferential Statistics  
   **Data Visualization** Tableau  
 
 ### YouTube Project Walk-Through
