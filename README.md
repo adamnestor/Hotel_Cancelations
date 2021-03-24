@@ -38,3 +38,8 @@ https://public.tableau.com/shared/7KNGBC339?:display_count=y&:origin=viz_share_l
  ![Special Request Boxplots](https://user-images.githubusercontent.com/79426455/112389832-bf42ae00-8ccb-11eb-9ff2-0ef15c7a902e.png)
 3. **First-Time Guests** - The Filtered Subset was majority first-time guests, i.e. no previous cancelations or previous noncancelations. First-time guests represent a huge opportunity to make a first impression and establish customer loyalty.   
  ![Filtered Repeated Guest](https://user-images.githubusercontent.com/79426455/112389930-e305f400-8ccb-11eb-9081-e944d18fa599.png)
+ 
+ ### Where To Go From Here
+ 1. A possible further project (that I plan on completing soon) would be to create a predictive model via logistic regression that would be able to warn a sales department of a potential cancelation. 
+ 2. Additional investigation could be done into what it is about Roomy Type A that makes it more prone to cancelations. Is it the room size? Bed size? Location within the hotel? Ammenities?
+ 3. Further investigation into common special requests; building more opportunity for asking customers to make special requests and thereby increasing likelihood of a stay. Perhaps an opporunity for selecting among the top 3-5 most common requests with an "Other" option within the sales funnel. Or, an individual touch of a phone call to confirm stay 60 days out (when cancelations typically are happening). 
